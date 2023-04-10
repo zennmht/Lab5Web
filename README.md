@@ -1,5 +1,3 @@
-# Nama : Zaini Muhtarom
-
-# Nim : 312110294
-
-# Kelas : TI.21.A3
+***NAMA : ZAINI MUHTAROM*** <br/>
+***NIM : 312110294*** <br/>
+***KELAS : TI.21.A3*** <br/>
